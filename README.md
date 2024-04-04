@@ -1,4 +1,4 @@
-## :wave: Hey there
+# :wave: Hey there
 
 My name is Diana. I am a young promising frontend developer.
 
@@ -22,7 +22,6 @@ My name is Diana. I am a young promising frontend developer.
 
 [![Diana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divashka&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-____
+## :woman: Social
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/divvashka)
-
