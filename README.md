@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divashka&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Diana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divashka&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
 
